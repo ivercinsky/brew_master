@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  esters: 1
+  superior_alcohols: 1
+  residular_sugar: 1
+  flocculation: 1
+  name: MyString
+
+two:
+  esters: 1
+  superior_alcohols: 1
+  residular_sugar: 1
+  flocculation: 1
+  name: MyString

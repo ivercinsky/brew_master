@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  recipe_id: 
+  malt_id: 
+  amount: 1.5
+  adition_moment_id: 
+
+two:
+  recipe_id: 
+  malt_id: 
+  amount: 1.5
+  adition_moment_id: 

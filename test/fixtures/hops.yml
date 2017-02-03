@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  alfa_acid: 1.5
+  beta_acid: 1.5
+  total_oil: 1.5
+  model: MyString
+
+two:
+  alfa_acid: 1.5
+  beta_acid: 1.5
+  total_oil: 1.5
+  model: MyString
